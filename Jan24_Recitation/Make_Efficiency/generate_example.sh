@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#Script to generate source files#
+
 rm *.c* *.h* *.o* *makefile*
 
 echo "main.o: main.c file1.h file1.o" >> "makefile" 
