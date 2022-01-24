@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#Repeat for source file count 20 to 100
 for ((i=20;i<=100;i+=10));
 do
 	#Generate source and header files#
